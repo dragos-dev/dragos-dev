@@ -19,11 +19,10 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-###Links:
-
+### Links:
 
 <p>
-  <a href="https://t.me/pr3s3n7" target="_blank"><img alt="Telegram" src="https://i.siteapi.org/o58BVwcNDp9OKszxFmiDTK-rfPQ=/0x0:1200x628/s.siteapi.org/4988ac128c532eb.ru/img/379wkv530kisow08w8gw0w08c08k0k" /></a>
+  <a href="https://t.me/pr3s3n7" target="_blank"><img alt="Telegram" width=300 height=100 src="https://i.siteapi.org/o58BVwcNDp9OKszxFmiDTK-rfPQ=/0x0:1200x628/s.siteapi.org/4988ac128c532eb.ru/img/379wkv530kisow08w8gw0w08c08k0k" /></a>
   <a href="https://www.youtube.com/channel/UCA7XPClPO83E9pMa24mkm2Q" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 </p>
 

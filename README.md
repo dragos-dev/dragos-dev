@@ -3,6 +3,8 @@
 <!--
 **dragos-dev/dragos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![](https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

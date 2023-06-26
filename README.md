@@ -1,6 +1,4 @@
-### Hi! I'm Go Developer.
-
-#### Since 2018, I have tried a lot of things in programming, but stopped at Go backend and blockchain.
+### Hi! I'm Backend Developer.
 
 ### I use this things in development:
 
